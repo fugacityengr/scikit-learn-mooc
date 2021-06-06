@@ -34,3 +34,4 @@ doc/_build
 *.code-workspace
 .vscode
 
+*.ipynb
